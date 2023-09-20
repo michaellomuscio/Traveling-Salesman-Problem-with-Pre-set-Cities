@@ -13,3 +13,6 @@ The genetic algorithm optimizes the path using:
 - **Selection**: Routes with shorter distances have a higher chance of being selected.
 - **Crossover**: Combines two routes to produce a new route.
 - **Mutation**: There's a chance to swap two cities in a route to introduce variability.
+  
+## Resources to learn more
+[Here](https://docs.google.com/document/d/1_lzpuUzTSAosdZqfeqtqmqSjo8RCp2LCSfn47HPbAG8/edit?usp=sharing) is a brief introduction to genetic algorithms.
